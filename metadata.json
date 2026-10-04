@@ -1,0 +1,6 @@
+{
+  "name": "AeroTwin Edge - Aerospace MRO Maintenance Copilot",
+  "description": "Offline-first Edge AI maintenance copilot for aerospace MRO turbine inspection, sensor fusion, and digital twin health assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
